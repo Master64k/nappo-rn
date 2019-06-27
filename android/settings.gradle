@@ -1,0 +1,3 @@
+rootProject.name = 'nappo_test'
+
+include ':app'
